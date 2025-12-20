@@ -58,12 +58,12 @@ Light / Dark + custom aesthetic themes.
 
 | Layer | Tech |
 |------|------|
-| Framework | **Next.js 15** |
+| Framework | **Next.js 16** |
 | Language | **TypeScript** |
 | Styling | **TailwindCSS** |
 | Syntax Highlighting | **Shiki / Prism.js** |
-| State | Zustand / React Context |
-| Deployment | Vercel |
+| State | Redux / React Context |
+| Deployment | Self-hosted |
 
 ---
 
